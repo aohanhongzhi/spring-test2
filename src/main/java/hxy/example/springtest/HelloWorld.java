@@ -1,4 +1,4 @@
-package hxy.example.SpringTest;
+package hxy.example.springtest;
 
 //这里可以添加lombok注解。从而更加简洁代码
 public class HelloWorld {

@@ -1,4 +1,4 @@
-package hxy.example.SpringTest;
+package hxy.example.springtest;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
